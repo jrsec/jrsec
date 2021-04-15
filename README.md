@@ -1,6 +1,6 @@
 # Hi, I'm Jorge 👋
 
-<img src="raw.githubusercontent.com/jrsec/jrsec/master/assets/gh-header-image-green.png" alt="banner that says Jorge Reyes - security engineer, automation enthusiast, and adjunct professor alongside a cartoon illustration">
+<img src="https://raw.githubusercontent.com/jrsec/jrsec/main/assets/gh-header-image-green.png" alt="banner that says Jorge Reyes - security engineer, automation enthusiast, and adjunct professor alongside a cartoon illustration">
 
 I'm a security engineer at ![Grubhub](https://img.shields.io/badge/-GRUBHUB-%23F63440?style=flat-square&logo=grubhub&logoColor=ffffff) who is passionate about making cloud architecture more secure, creating code to automate my life, and teaching what I know.  Some technologies I enjoy working with include Python, Docker, and Splunk.
 
