@@ -18,7 +18,7 @@ Check out my projects and articles at my [portfolio website](https://jrsec.githu
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazonwebservices&logoColor=ffffff)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-%%234285F4?style=flat-square&logo=googlecloud&logoColor=ffffff)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-%234285F4?style=flat-square&logo=googlecloud&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![MacOS](https://img.shields.io/badge/-MacOS-%23000000?style=flat-square&logo=macos&logoColor=ffffff)
