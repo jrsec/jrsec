@@ -27,7 +27,7 @@ Check out my projects and articles at my [portfolio website](https://jrsec.githu
 ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-%230559C9?style=flat-square&logo=ubiquiti&logoColor=ffffff)
 ![Nginx](https://img.shields.io/badge/-Nginx-%23009639?style=flat-square&logo=nginx&logoColor=ffffff)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-%23F38020?style=flat-square&logo=cloudflare&logoColor=ffffff)
-![Fastly](https://img.shields.io/badge/-Fastly-%23#FF282D?style=flat-square&logo=splunk&logoColor=ffffff)
+![Fastly](https://img.shields.io/badge/-Fastly-%23FF282D?style=flat-square&logo=fastly&logoColor=ffffff)
 ![Splunk](https://img.shields.io/badge/-Splunk-%23000000?style=flat-square&logo=splunk&logoColor=ffffff)
 ![Datadog](https://img.shields.io/badge/-Datadog-%23632CA6?style=flat-square&logo=datadog&logoColor=ffffff)
 ![Grafana](https://img.shields.io/badge/-Grafana-%23F46800?style=flat-square&logo=grafana&logoColor=ffffff)
