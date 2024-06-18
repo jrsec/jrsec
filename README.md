@@ -10,7 +10,7 @@ Check out my projects and articles at my [portfolio website](https://jrsec.githu
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Bash](https://img.shields.io/badge/-Bash-%234EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-%235391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=coffeescript&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=ffffff)
