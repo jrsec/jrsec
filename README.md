@@ -2,9 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/jrsec/jrsec/main/assets/gh-header-image-blue.png" alt="banner that says Jorge Reyes - security manager, devsecops engineer, and adjunct professor alongside a cartoon illustration">
 
-As a lifelong learner, I'm passionate about sharing knowledge.
-I contribute to open-source projects and enjoy teaching others about security and automation.
-Check out my projects and articles at my [portfolio website](https://jrsec.github.io)!
+As a **Security Manager** and **DevSecOps Engineer**, I'm driven by continuous learning and sharing expertise.  I contribute to 🛠️ open-source security projects and enjoy teaching as an **Adjunct Professor**.
+
+Need help with **security architecture** or **career growth**?  I offer private consultation and career strategy sessions.  [🗓️ Schedule a quick chat](https://calendly.com/jr-sec) on Calendly!
+
+You can find my latest work and articles at my [💻 portfolio website](https://jrsec.github.io).
 
 ### Languages and Tools
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=round-square&logo=icloud&logoColor=ffffff)
