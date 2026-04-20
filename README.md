@@ -1,10 +1,23 @@
 # Hi, I'm Jorge 👋
 
-<img src="https://raw.githubusercontent.com/jrsec/jrsec/main/assets/gh-header-image-blue.png" alt="banner that says Jorge Reyes - security manager, devsecops engineer, and adjunct professor alongside a cartoon illustration">
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://jrsec.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  <a href="https://calendly.com/jr-sec">
+    <img src="https://img.shields.io/badge/Office Hours-%23006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly">
+  </a>
+  </a>
+</p>
 
-As a **Security Manager** and **DevSecOps Engineer**, I've specialized in **security architecture** and **career growth**.  I'm driven by continuous learning and sharing expertise.  I contribute to 🛠️ open-source security projects and enjoy teaching as an **Adjunct Professor**.
+<img src="assets/gh-header-image-blue.png" alt="banner that says Jorge Reyes - security leader, devsecops architect, and technical instructor alongside a cartoon illustration">
 
-[🗓️ Schedule a quick chat](https://calendly.com/jr-sec) | [💻 Portfolio Website](https://jrsec.github.io)
+As a **Security Leader** and **DevSecOps Architect**, I design resilient infrastructure and lead high-performing teams.
+I specialize in bridging the gap between rapid development and robust security.
+
+Outside the terminal, I am a **Technical Instructor** and **Book Reviewer**, dedicated to sharing knowledge and expertise with the community.
 
 ---
 
@@ -20,12 +33,11 @@ As a **Security Manager** and **DevSecOps Engineer**, I've specialized in **secu
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 
 ### ☁️ Cloud & Edge Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=icloud&logoColor=ffffff)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-%234285F4?style=flat-square&logo=google-cloud&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=icloud&logoColor=ffffff)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-%23F38020?style=flat-square&logo=cloudflare&logoColor=ffffff)
 ![Fastly](https://img.shields.io/badge/-Fastly-%23FF282D?style=flat-square&logo=fastly&logoColor=ffffff)
 ![Nginx](https://img.shields.io/badge/-Nginx-%23009639?style=flat-square&logo=nginx&logoColor=ffffff)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 ### 📊 Monitoring & Observability
 ![Splunk](https://img.shields.io/badge/-Splunk-%23000000?style=flat-square&logo=splunk&logoColor=ffffff)
@@ -49,5 +61,5 @@ As a **Security Manager** and **DevSecOps Engineer**, I've specialized in **secu
 
 ### 🎯 Areas of Focus
 - **Securing the AI Lifecycle:** Leveraging tools like **Ollama** for local model testing and **Gemini** for security automation.
-- **Infrastructure as Code:** Building scalable, secure-by-default environments with **Terraform** and **Pulumi**.
-- **Education & Mentorship:** Designing curricula and teaching the next generation of security pros as an **Adjunct Professor**.
+- **Infrastructure-as-Code:** Building scalable, secure-by-default environments with **Terraform** and **Pulumi**.
+- **Education & Mentorship:** Designing post-graduate curricula as a **Technical Instructor** and serving as a **Technical Book Reviewer** to ensure accuracy and quality in emerging security literature.
