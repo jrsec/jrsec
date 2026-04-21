@@ -1,15 +1,11 @@
 # Hi, I'm Jorge 👋
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://jrsec.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-  <a href="https://calendly.com/jr-sec">
-    <img src="https://img.shields.io/badge/Office Hours-%23006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly">
-  </a>
-  </a>
+  <a href="https://linkedin.com/in/jrsec"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="https://jrsec.github.io"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+  &nbsp;
+  <a href="https://calendly.com/jr-sec"><img src="https://img.shields.io/badge/Office Hours-%23006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly"></a>
 </p>
 
 <img src="assets/gh-header-image-blue.png" alt="banner that says Jorge Reyes - security leader, devsecops architect, and technical instructor alongside a cartoon illustration">
